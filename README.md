@@ -1,3 +1,7 @@
+# Валидация формы
+валидация с помощью чистого `react-hook-form`
+заготовки полей input и их валидация в одном файле `formData`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

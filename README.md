@@ -1,6 +1,9 @@
 # Валидация формы
-валидация с помощью чистого `react-hook-form`
+форма на чистоm `react-hook-form`
 заготовки полей input и их валидация в одном файле `formData`
+    -  валидация с помощью чистого react-hook-form
+    -  заготовки полей input и их валидация в одном файле formData
+    -  валидация и маска номера телефона при помощи простых regExp
 
 # Getting Started with Create React App
 

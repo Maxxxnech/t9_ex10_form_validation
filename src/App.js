@@ -6,8 +6,9 @@ function App() {
   return (
     <div className="App">
       <h1>t9_ex10_form_validation</h1>
-      <p>валидация с помощью чистого react-hook-form</p>
+      <p>форма на чистоm <b>react-hook-form</b></p>
       <p>заготовки полей input и их валидация в одном файле formData</p>
+      <p>валидация и маска номера телефона при помощи простых regExp</p>
       <Form />
     </div>
   );
